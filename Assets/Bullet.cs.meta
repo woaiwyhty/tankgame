@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f39395865ffa073499a41fcb558e48d0
+timeCreated: 1495086845
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explodeSrc: {instanceID: 0}
+  - explodeClip: {fileID: 8300000, guid: 53ba6765587259544b6820ba7ced21a9, type: 3}
+  - attackTank: {instanceID: 0}
+  - explodeEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
